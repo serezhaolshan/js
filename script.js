@@ -1,4 +1,2 @@
 console.log('Work hard and pay off');
-setTimeout(function(){
-    alert('XYZ')
-},400)
+setTimeout(alert('XYZ'),400)
