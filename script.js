@@ -1,2 +1,6 @@
 console.log('Work hard and pay off');
-setTimeout(alert('XYZ'),400)
+setTimeout(function(){
+    a=getElementById.value("#input");
+    alert(a)
+
+},400);
