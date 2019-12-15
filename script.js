@@ -1,0 +1,1 @@
+console.log('Work hard and pay off')
